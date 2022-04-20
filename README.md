@@ -7,3 +7,4 @@ Patika eğitim platformundaki sql dersinin ödevleri.
 - [BETWEEN ve IN Ödevi](https://app.patika.dev/courses/sql/Odev2)
 - [LIKE ve ILIKE Ödevi](https://app.patika.dev/courses/sql/Odev3)
 - [DISTINCT ve COUNT Ödevi](https://app.patika.dev/courses/sql/Odev4)
+- [ORDER BY, LIMIT, OFFSET Ödevi](https://app.patika.dev/courses/sql/Odev5)
