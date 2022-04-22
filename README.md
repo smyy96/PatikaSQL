@@ -8,3 +8,4 @@ Patika eğitim platformundaki sql dersinin ödevleri.
 - [LIKE ve ILIKE Ödevi](https://app.patika.dev/courses/sql/Odev3)
 - [DISTINCT ve COUNT Ödevi](https://app.patika.dev/courses/sql/Odev4)
 - [ORDER BY, LIMIT, OFFSET Ödevi](https://app.patika.dev/courses/sql/Odev5)
+- [SUM, MAX, AVG, MIN](https://app.patika.dev/courses/sql/Odev6)
