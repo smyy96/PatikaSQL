@@ -10,3 +10,4 @@ Patika eğitim platformundaki sql dersinin ödevleri.
 - [ORDER BY, LIMIT, OFFSET Ödevi](https://app.patika.dev/courses/sql/Odev5)
 - [SUM, MAX, AVG, MIN](https://app.patika.dev/courses/sql/Odev6)
 - [HAVING, GROUP BY](https://app.patika.dev/courses/sql/Odev7)
+- [UPDATE, DELETE](https://app.patika.dev/courses/sql/Odev8)
