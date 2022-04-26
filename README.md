@@ -12,3 +12,4 @@ Patika eğitim platformundaki sql dersinin ödevleri.
 - [HAVING, GROUP BY](https://app.patika.dev/courses/sql/Odev7)
 - [UPDATE, DELETE](https://app.patika.dev/courses/sql/Odev8)
 - [INNER JOIN](https://app.patika.dev/courses/sql/Odev9)
+- [LEFT, RIGHT, FULL JOIN](https://app.patika.dev/courses/sql/Odev10)
